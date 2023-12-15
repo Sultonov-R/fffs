@@ -1,0 +1,19 @@
+.translate {
+    width: 60%;
+}
+button{
+    width:100%;
+    cursor: pointer;
+    height: 30px;
+    background-color:blue;
+    color: #d0cdcd;
+    cursor: pointer;
+    border:none;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: #d0cdcd;
+    transition: all 0.4s;
+    color: #1900ff;
+    transform: scale(1.1);
+}

@@ -1,0 +1,10 @@
+.choises{
+    display:flex;
+    gap: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.choises .choice{
+    cursor:pointer;
+}
